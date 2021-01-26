@@ -1,6 +1,6 @@
 # Chuck Norris Joke Generator
 
-A simple app that generates Chuck Norris Jokes
+A simple React app that generates Chuck Norris Jokes
 
 ## User Stories
 
